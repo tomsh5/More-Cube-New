@@ -1,0 +1,11 @@
+// BASICS
+@import "./styles/basics/base.scss";
+@import "./styles/basics/layout.scss";
+@import "./styles/basics/helpers.scss";
+
+//SETUP
+@import "./styles/setup/variables.scss";
+@import "./styles/setup/mixins.scss";
+
+//Pages
+@import "./pages/CubeApp/CubeApp.scss";
